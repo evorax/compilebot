@@ -16,7 +16,7 @@ Full security measures.
 <br/>
 Configuration can be done in config.json.
 <br/>
-The token should contain the discord token
+The token should contain the discord token.
 <br/>
 The module should contain a package that can be banned.
 <br/>
