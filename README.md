@@ -21,3 +21,17 @@ The token should contain the discord token.
 The module should contain a package that can be banned.
 <br/>
 The maxint can be used to determine the maximum number of for statements to be executed.
+<br/>
+
+```json
+{
+    "maxint": 100,
+    "module": [
+        "os/exec",
+        "net",
+        "syscall",
+        "os"
+    ],
+    "token": ""
+}
+```
