@@ -1,0 +1,10 @@
+{
+    "maxint": 100,
+    "module": [
+        "os/exec",
+        "net",
+        "syscall",
+        "os"
+    ],
+    "token": ""
+}
