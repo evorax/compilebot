@@ -35,3 +35,7 @@ The maxint can be used to determine the maximum number of for statements to be e
     "token": ""
 }
 ```
+
+<br/>
+
+To install, run `go mod tidy` in the directory of this file.
