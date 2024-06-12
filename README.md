@@ -14,6 +14,10 @@ Full security measures.
 ![demo](/images/demo2.png)
 
 <br/>
+
+# Use & Install Method
+
+<br/>
 Configuration can be done in config.json.
 <br/>
 The token should contain the discord token.
