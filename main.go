@@ -11,6 +11,7 @@ import (
 )
 
 func main() {
+	os.MkdirAll("compile", 0775)
 	config, err := Load()
 	if err != nil {
 		fmt.Println(err)
