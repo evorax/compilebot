@@ -1,6 +1,6 @@
 # compilebot
 
-under development...
+This BOT is in the development phase.
 
 This bot is compile golang code.
 <br/>
