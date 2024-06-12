@@ -10,7 +10,6 @@ import (
 )
 
 func (c *Config) isSafe(code string) bool {
-
 	fset := token.NewFileSet()
 	node, err := parser.ParseFile(fset, "", code, parser.ImportsOnly)
 	if err != nil {
