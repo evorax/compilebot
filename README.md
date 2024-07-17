@@ -13,7 +13,7 @@ Full security measures.
 
 ![demo](/images/demo2.png)
 
-# Use & Install Method
+## Use & Install Method
 
 <br/>
 Configuration can be done in config.json.
